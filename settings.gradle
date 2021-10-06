@@ -1,0 +1,3 @@
+rootProject.name = "Building Library"
+include ':app'
+include ':hello-world-library'
